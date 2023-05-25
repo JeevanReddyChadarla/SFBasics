@@ -35,3 +35,13 @@ ObjectManager -> select the custom object you have created -> select field and r
 
 #Create a custom formula
 objectmanager -> new -> enter the output datatype -> advanced -> apply formula 
+
+
+## Salesforce.com : Page Layouts
+
+1. Layout Customization
+2. Field Required / Read-Only
+3. Types : Edit & Detail
+
+# Create custom pagelayout 
+objectmanager -> pagelayout -> {patientLayout} 
