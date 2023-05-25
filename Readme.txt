@@ -45,3 +45,16 @@ objectmanager -> new -> enter the output datatype -> advanced -> apply formula
 
 # Create custom pagelayout 
 objectmanager -> pagelayout -> {patientLayout} 
+
+## Salesforce.com :custom Page Layouts
+
+1. Layout Customization
+2. Field Required / Read-Only
+3. Types : Edit & Detail
+4. layout: create the layout as you design
+
+# Create custom pagelayout 
+objectmanager -> Page layout -> new -> 
+
+# Page Layout Assignment
+objectmanager -> page layout assignment -> edit assignment -> {choose the profile and select the layout}
