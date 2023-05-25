@@ -58,3 +58,13 @@ objectmanager -> Page layout -> new ->
 
 # Page Layout Assignment
 objectmanager -> page layout assignment -> edit assignment -> {choose the profile and select the layout}
+
+## Salesforce.com : Record Types
+
+1. Assigning Multiple Page Layouts
+2. Each record type is associated with a Page layout
+
+record type will ask to select the layout when you enter a new object(patient)
+
+#record type 
+object manager -> record type -> new -> enter record type label (choose active checkbox )and choose systemadmin profile -> next -> apply a different layout for each profile -> choose that particulat from dropdown -> save
