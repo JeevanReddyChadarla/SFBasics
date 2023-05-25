@@ -68,3 +68,15 @@ record type will ask to select the layout when you enter a new object(patient)
 
 #record type 
 object manager -> record type -> new -> enter record type label (choose active checkbox )and choose systemadmin profile -> next -> apply a different layout for each profile -> choose that particulat from dropdown -> save
+
+
+## Salesforce.com : Validation Rules
+
+1. Enforces the users to enter the correct information
+2. To Maintain Accuracy and Quality of data
+3. It will be work in before mode
+4. In Free Developer Edition: 100 Active Validation Rules
+5. In Unlimited Edition: 500 Active Validation
+
+#Create custom validation to a field 
+objectmanager -> validation -> select the object and start the validation
