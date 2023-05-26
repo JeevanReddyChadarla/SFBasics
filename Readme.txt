@@ -80,3 +80,17 @@ object manager -> record type -> new -> enter record type label (choose active c
 
 #Create custom validation to a field 
 objectmanager -> validation -> select the object and start the validation
+
+Salesforce.com : Profiles
+
+1. Set of permissions basic permissions
+2. Interface between the User and Salesforce Org
+3. Types : Standard and Custom Profiles
+4. Each Profile have salesforce license based on the permissions
+
+On creating the profiles - an end user can login to any profile 
+and each profile has a set of configurations (we can restrict the permissions on the operations he can perform) 
+
+create a profile 
+home -. profiles(search) -. new profile -> select the dummy and mention the name of new profile -> edit the permissions that he can have access to -. new users -. new user -> home -> login -> give the login permission -> home -. user -> login with that profile
+
