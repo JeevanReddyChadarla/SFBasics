@@ -1,0 +1,7 @@
+profiles - receptionist (gibe permisssions to just enter the details)
+	   edit receptionist(who can have the edit access)
+	   transfer(people who do transfers)
+	   custodial service (clean the room on a request)
+	   
+design the patients Sobject as capman view(Accounts in SF)
+___________________________________________________________________________________
